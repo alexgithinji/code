@@ -36,3 +36,6 @@ print("Popped:", popped_item)
 # Peeking at the top element
 top_element = stack.peek()
 print("Top element:", top_element)
+
+
+
